@@ -28,11 +28,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-# Anisha Sinha's First CS193 Homework 
-- The cool teachers 
-- Relevant Content 
-- Humor interwoven in classes
-
 [Link](url) and ![Image](src)
 ```
 
